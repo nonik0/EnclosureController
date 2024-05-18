@@ -5,3 +5,8 @@
 #define SSH_PORT 22
 #define SSH_USER "jo"
 #define SSH_PASS "raspberry"
+
+#define PRINTER_SERVER "10.1.1.8"
+#define PRINTER_URI "api/v1/status"
+#define PRINTER_USER "nick"
+#define PRINTER_PASS "prusaPassword!1"
