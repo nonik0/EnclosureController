@@ -7,6 +7,5 @@
 #define SSH_PASS "raspberry"
 
 #define PRINTER_SERVER "10.1.1.8"
-#define PRINTER_STATUS_URI "api/v1/status"
 #define PRINTER_USER "nick"
 #define PRINTER_PASS "prusaPassword!1"
