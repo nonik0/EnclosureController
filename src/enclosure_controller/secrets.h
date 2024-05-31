@@ -9,3 +9,5 @@
 #define PRINTER_SERVER "10.1.1.8"
 #define PRINTER_USER "nick"
 #define PRINTER_PASS "prusaPassword!1"
+
+#define WLED_IP "10.1.1.50"
